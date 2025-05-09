@@ -17,6 +17,9 @@ AI-Paper-Checker-App is an automated Optical Mark Recognition (OMR) system built
 - **NumPy** (Data manipulation)
 - **Matplotlib** (Visualization of results).
 - **FastAPI** (Web-based interface and API support)
+- **FullStack Developement** (Complete Webiste)
+- **MOngo DB** (Store Data)
+  
 
 ## Folder Structure
 *(This is a suggested folder structure. You may follow your own based on your development needs.)*
